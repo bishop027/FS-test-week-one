@@ -25,20 +25,23 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. Palindrome
 
-- Grade:
-- Explanation:
+- Grade: 4
+- Explanation: We recently completed a similar exercise in the previous class, so I was able to solve the problem step by step.
 
 ### 2. Add grid items
 
-- Grade:
-- Explanation:
+- Grade: 2
+- Explanation: I felt like I understood the question and I was able to form a plan on how to solve the problem; however, I completely forgot how grids worked and needed to look up quite a few things, which left me with less time.
 
 ### 3. Create file name string in CamelCase
 
-- Grade:
-- Explanation:
+- Grade: 3
+- Explanation: I understood the question, but I'm unsure if my answer is correct.
 
 ### 4. Create pattern
 
-- Grade:
-- Explanation:
+- Grade: 2
+- Explanation: I definitley think I overthought this question and used the majority on my time to answer it. I'm not sure what happened, but I feel like the hint made me more confused that I was originally. 
+
+
+*** Quick note - my browser crashed and my whole computer wouldn't start after the looping exercise. Unfortunately, I needed to reboot my computer. I lost a lot of time, so I went back to the exercises after this happened.
